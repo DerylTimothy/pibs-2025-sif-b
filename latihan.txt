@@ -1,0 +1,5 @@
+kegiatan:
+1.membuat reposistory
+2.edit file readme.md
+3.edit file readme.md
+4.menambah file latihan.txt ke reposistory
